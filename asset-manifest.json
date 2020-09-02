@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/dropbox-ui-clone/static/js/main.9ac2fdec.chunk.js",
+    "main.js.map": "/dropbox-ui-clone/static/js/main.9ac2fdec.chunk.js.map",
+    "runtime-main.js": "/dropbox-ui-clone/static/js/runtime-main.8e7474a5.js",
+    "runtime-main.js.map": "/dropbox-ui-clone/static/js/runtime-main.8e7474a5.js.map",
+    "static/js/2.8950b6fe.chunk.js": "/dropbox-ui-clone/static/js/2.8950b6fe.chunk.js",
+    "static/js/2.8950b6fe.chunk.js.map": "/dropbox-ui-clone/static/js/2.8950b6fe.chunk.js.map",
+    "index.html": "/dropbox-ui-clone/index.html",
+    "precache-manifest.03b0a249afb2a1cdca5362e0d864159b.js": "/dropbox-ui-clone/precache-manifest.03b0a249afb2a1cdca5362e0d864159b.js",
+    "service-worker.js": "/dropbox-ui-clone/service-worker.js",
+    "static/js/2.8950b6fe.chunk.js.LICENSE.txt": "/dropbox-ui-clone/static/js/2.8950b6fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e7474a5.js",
+    "static/js/2.8950b6fe.chunk.js",
+    "static/js/main.9ac2fdec.chunk.js"
+  ]
+}
